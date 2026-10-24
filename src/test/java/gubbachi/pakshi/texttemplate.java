@@ -17,7 +17,7 @@ public class texttemplate {
 	
 	@Test
 
-	public static void main(String[] args) throws InterruptedException {
+	public  void texttemplate() throws InterruptedException {
 		// TODO Auto-generated method stub
 
 		WebDriver driver=new ChromeDriver();
