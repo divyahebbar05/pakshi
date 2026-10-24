@@ -93,7 +93,7 @@
 <suiteXmlFile>testng.xml</suiteXmlFile>
 </suiteXmlFiles>
 <systemPropertyVariables>
-<browser>${browser}</browser>
+<browser>${chrome}</browser>
 </systemPropertyVariables>
 </configuration>
 </plugin>
